@@ -4,7 +4,7 @@ I'm a software developer at [Autodoc](https://autodoc.com.br) in São Paulo, Bra
 
 
 <div align="left">
-  <a href="https://github.com/Jonatas-Brito">
+  <a href="https://github.com/brunomelohwm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Brito&layout=compact&langs_count=7&theme=dracula"/>
   
@@ -22,7 +22,7 @@ I'm a software developer at [Autodoc](https://autodoc.com.br) in São Paulo, Bra
 ##
 
 <div> 
-  <a href="https://instagram.com/jonatas._luiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "mailto:jonatas.furtuna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatas-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bruno-melo-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
