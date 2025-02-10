@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
+I'm a software developer in São Paulo, Brazil 🌆
 
 
 <div align="left">
