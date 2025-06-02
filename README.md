@@ -1,11 +1,15 @@
-### Hi there 👋
+### 👋 Hi there! I'm Bruno
 
-I'm a software developer in São Paulo, Brazil 🌆
+I'm a Flutter developer passionate about building beautiful and solid mobile experiences. 
+ 
+I love technical challenges, strong storytelling (in games, music, and life) — and I'm always seeking to grow, both as a dev and as a person.
+
+From São Paulo - Brazil 🌆
 
 
 <div align="left">
   <a href="https://github.com/brunomelohwm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomelohwm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomelohwm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomelohwm&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
@@ -19,7 +23,7 @@ I'm a software developer in São Paulo, Brazil 🌆
   <img align="center" alt="Bruno-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-##
+### 📫 How to reach me
 
 <div> 
  
