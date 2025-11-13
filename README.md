@@ -1,8 +1,6 @@
 ### 👋 Hi there! I'm Bruno
 
 I'm a Flutter developer passionate about building beautiful and solid mobile experiences. 
- 
-I love technical challenges, strong storytelling (in games, music, and life) — and I'm always seeking to grow, both as a dev and as a person.
 
 From São Paulo - Brazil 🌆
 
